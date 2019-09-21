@@ -1,0 +1,116 @@
+body{
+  background-color: white;
+
+}
+
+h1 {
+  color: black;
+  font-family: verdana;
+  margin: auto;
+  text-align: center;
+}
+
+.titel {
+  color: orange;
+}
+
+h2 {
+  text-align: center;
+  font-family: verdana;
+}
+img {
+  display: block;
+  width:300px;
+  margin: auto;
+  border-radius: 25px;
+}
+
+p{
+  text-align: center;
+  font-family: verdana;
+  margin: 20px;
+  font-style: oblique;
+}
+
+footer{
+  background-color: #595959;
+  padding:20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.footer {
+  Border-radius: 20px;
+  text-align: center;
+  padding: 10px;
+}
+
+.gif {
+  width: 250px;
+  margin: auto;
+}
+
+.logga {
+  width: 400px;
+}
+
+.meny {
+  display: flex;
+  border: 1px solid;
+  width: auto;
+  height: 10px;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: space-evenly;
+  padding: 50px;
+  background-image: url("filmstripsvart.png");
+  border-radius: 10px;
+  background-size: contain;
+  font-size: 20px;
+}
+
+a {
+  color: #b30086;
+  font-family: arial;
+
+}
+
+a:link{
+  color: #333333;
+}
+a:visited{
+  color: #333333;
+}
+a:hover{
+  color:orange;
+}
+
+.kontakt {
+  justify-content: space-between;
+}
+
+.tidigare {
+  display: flex;
+  color: black;
+  align-items: center;
+}
+
+.vi {
+  display: block;
+  width:600px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.countdown {
+  display: block;
+  width:600px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.titel {
+  display: block;
+  width:600px;
+  margin: auto;
+  border-radius: 20px;
